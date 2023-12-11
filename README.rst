@@ -33,7 +33,7 @@ tl;dr
 
 * Install django-admin-honeypot from PyPI::
 
-        pip install django-admin-honeypot
+        pip install git+https://github.com/athento/django-admin-honeypot@2.0.0
 
 * Add ``admin_honeypot`` to ``INSTALLED_APPS``
 * Update your urls.py:
